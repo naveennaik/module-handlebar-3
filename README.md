@@ -1,1 +1,3 @@
-# module-handlebar-3
+# module3  handlebarjs
+
+https://module-3-handlebar.herokuapp.com
